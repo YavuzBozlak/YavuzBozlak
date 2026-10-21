@@ -1,16 +1,25 @@
-## Hi there 👋
+# Yavuz Bozlak
 
-<!--
-**YavuzBozlak/YavuzBozlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fikirleri doğru teknolojilerle eşleştirip yapay zekâ ürünlerine dönüştürüyorum.
 
-Here are some ideas to get you started:
+Burası bir laboratuvar defteri. Her proje bir soruyla başlıyor,
+araştırmayla şekilleniyor ve tek bir ölçütle değerlendiriliyor:
+kime, ne fayda sağlıyor?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Yöntem
+🔍 **Araştır**: İnsanlar işi nasıl yapıyor, nerede tıkanıyor?  
+🧩 **Eşleştir**: Bu problem hangi teknolojiyle en sade çözülür?  
+🎯 **Fayda**: Sonuç kimin işini kolaylaştırıyor, sınırları ne?
+
+### Laboratuvar
+| Lab | Soru | Durum |
+|---|---|---|
+| 01 · Lokal LLM | KOBİ'ler veriyi dışarı çıkarmadan yapay zekâ kullanabilir mi? | 🧪 Hazırlanıyor |
+| 02 · AutoScience | Arkeolojideki tekrar eden işler yapay zekâya devredilebilir mi? | 🧪 Hazırlanıyor |
+| 03 · intelligentWorks | Savunma sanayii KOBİ'lerinde ekran işleri otomasyona nasıl taşınır? | 🧪 Hazırlanıyor |
+
+### Bağlantılar
+[yavuzbozlak.com](https://yavuzbozlak.com) · [Medium](https://medium.com/@yavuzbozlak24) · [LinkedIn](https://www.linkedin.com/in/yavuz-bozlak)
+
+*Kodu yapay zekâ destekli geliştirme araçlarıyla birlikte yazıyorum.
+Araştırma, mimari ve ürün kararları bana ait.*
