@@ -11,12 +11,6 @@ kime, ne fayda sağlıyor?
 🧩 **Eşleştir**: Bu problem hangi teknolojiyle en sade çözülür?  
 🎯 **Fayda**: Sonuç kimin işini kolaylaştırıyor, sınırları ne?
 
-### Laboratuvar
-| Lab | Soru | Durum |
-|---|---|---|
-| 01 · Lokal LLM | KOBİ'ler veriyi dışarı çıkarmadan yapay zekâ kullanabilir mi? | 🧪 Hazırlanıyor |
-| 02 · AutoScience | Arkeolojideki tekrar eden işler yapay zekâya devredilebilir mi? | 🧪 Hazırlanıyor |
-| 03 · intelligentWorks | Savunma sanayii KOBİ'lerinde ekran işleri otomasyona nasıl taşınır? | 🧪 Hazırlanıyor |
 
 ### Bağlantılar
 [yavuzbozlak.com](https://yavuzbozlak.com) · [Medium](https://medium.com/@yavuzbozlak24) · [LinkedIn](https://www.linkedin.com/in/yavuz-bozlak)
